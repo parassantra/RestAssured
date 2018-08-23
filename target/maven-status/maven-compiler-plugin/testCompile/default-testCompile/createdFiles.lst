@@ -1,0 +1,8 @@
+testRest\Test5_ResponseInDiffWays.class
+com\restAssured\RestAssured\AppTest.class
+testRest\Test1_BasicFeaturesForXML.class
+testRest\TestSetting_Root.class
+testRest\Test3_SchemaCheck.class
+testRest\Test6_GroovyFeatures.class
+testRest\TestPostRequest.class
+testRest\Test1_BasicFeatures.class
